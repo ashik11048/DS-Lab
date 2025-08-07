@@ -1,5 +1,3 @@
-//Swap two numbers without using a third variable
-
 #include<iostream>
 using namespace std;
 
