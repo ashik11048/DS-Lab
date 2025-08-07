@@ -1,5 +1,3 @@
-//Find the Secend Largest Number in an Array
-
 #include<iostream>
 using namespace std;
 
