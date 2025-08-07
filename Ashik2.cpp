@@ -1,4 +1,4 @@
-//Count the number of times each elements appears in the array
+
 
 #include<iostream>
 using namespace std;
