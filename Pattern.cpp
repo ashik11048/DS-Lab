@@ -1,5 +1,3 @@
-//Pyramid Pattern print
-
 #include<iostream>
 using namespace std;
 
