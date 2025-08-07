@@ -1,5 +1,3 @@
-//Check the given number exixts in the array (Search)
-
 #include<iostream>
 using namespace std;
 
