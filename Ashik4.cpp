@@ -1,5 +1,3 @@
-//Find the largest number from 3 numbers
-
 #include<iostream>
 using namespace std;
 
