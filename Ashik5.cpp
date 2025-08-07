@@ -1,5 +1,3 @@
-//Find the number of odd and even numbers in an array.
-
 #include<iostream>
 using namespace std;
 
