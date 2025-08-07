@@ -1,5 +1,3 @@
-//Delete an item of array
-
 #include<iostream>
 using namespace std;
 
