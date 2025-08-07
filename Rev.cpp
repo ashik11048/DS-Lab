@@ -1,5 +1,3 @@
-//Reverse the elements of the array in place
-
 #include<iostream>
 using namespace std;
 
