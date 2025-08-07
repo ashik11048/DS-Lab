@@ -1,5 +1,3 @@
-//Print all the unique elements
-
 #include<iostream>
 using namespace std;
 
